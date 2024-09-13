@@ -4,7 +4,7 @@ import SearchEngine from "./SearchEngine";
 export default function App() {
   return (
     <div className="App">
-      <h1>Ajax search engine</h1>
+      <h1>Ajax working search engine</h1>
       <SearchEngine />
     </div>
   );
